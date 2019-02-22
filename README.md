@@ -2,4 +2,4 @@
 
 Game built with Node, Socket.io, Babel, and Phaser.
 
-https://mighty-mountain-36812.herokuapp.com/
+https://online-car-game.herokuapp.com/
